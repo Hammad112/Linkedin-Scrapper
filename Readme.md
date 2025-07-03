@@ -5,7 +5,7 @@ I developed a LinkedIn scraper using **Selenium** and  **Chrome** to extract com
 
 # Architecture Diagram
 
-![LinkedIn Scraper Flow](images/scraper-diagram.png)
+![LinkedIn Scraper Flow](diagram.png)
 
 # How to clone 
 Clone this repository:
