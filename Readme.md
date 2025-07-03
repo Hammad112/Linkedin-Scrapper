@@ -3,6 +3,9 @@
 
 I developed a LinkedIn scraper using **Selenium** and  **Chrome** to extract company data, including the home page, about page, and job listings without signing in using my already signed in browser. It cleans and merges data using **pandas** and **json** for accurate results. Custom modules ensure dynamic content handling and remove empty fields efficiently.
 
+# Architecture Diagram
+
+![LinkedIn Scraper Flow](images/scraper-diagram.png)
 
 # How to clone 
 Clone this repository:
